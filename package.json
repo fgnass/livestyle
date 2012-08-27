@@ -26,7 +26,8 @@
         "optimist": "=0.3.0",
         "request": "=2.9.3",
         "socket.io": "=0.9.4",
-        "socket.io-client": "=0.9.4"
+        "socket.io-client": "=0.9.4",
+        "gateway": "=0.0.1"
     },
     "directories": {
         "bin": "./bin"
